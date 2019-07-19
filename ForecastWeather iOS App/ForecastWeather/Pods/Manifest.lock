@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.2)
+  - KVNProgress (2.3.5)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - KVNProgress
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - KVNProgress
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  KVNProgress: d7046cce142f1aeb740db39dc3cacfe910fac354
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 05408ac5f9d63ced55f55ac72431881d99b290ea
+
+COCOAPODS: 1.7.1
